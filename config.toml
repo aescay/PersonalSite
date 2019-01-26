@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://www.aescay.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = "An Aspiring Data Scientist's Blog"
 
   cover       = "img/small_cover.png"
-  description = "Here is a description of your site."
+  description = "Andrew Escay's Personal Website"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = ["static/css/casper-two.css"]
@@ -28,7 +28,7 @@ paginate        = 6
   author = "Andrew Escay"
   authorAvatar = "img/headshot.jpeg"
   authorLocation = "Manila, PH"
-  authorWebsite = "https://aescay.com"
+  authorWebsite = "https://www.aescay.com"
   authorDescription = "A hungy and foolish aspiring data scientist."
 
   pageNotFoundTitle = "404 - Page not found"
