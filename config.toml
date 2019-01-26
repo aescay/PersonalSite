@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = "An Aspiring Data Scientist's Blog"
 
   cover       = "img/small_cover.png"
-  description = "Here is a description of your site."
+  description = "Andrew Escay's Personal Website"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = ["static/css/casper-two.css"]
@@ -40,7 +40,7 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Blog"
+  name = "Home"
   url = "/"
   weight = 200
 
