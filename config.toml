@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "aescay.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -56,5 +56,5 @@ paginate        = 6
 
 [[menu.main]]
   name = "DataRookies"
-  url = "https://google.com/"
+  url = "https://github.com/DataRookies/DataRookiesLearningPortal"
   weight = 95
