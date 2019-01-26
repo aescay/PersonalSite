@@ -1,0 +1,60 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Andrew Escay"
+  subtitle    = "An Aspiring Data Scientist's Blog"
+
+  cover       = "img/cover.png"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = ["static/css/casper-two.css"]
+  RSSLink = ""
+
+#   twitterName = "faketryghost"
+  fbName = "andrew.escay"
+  githubName = "aescay"
+
+#   logo = "img/logo.png"
+  orgName = "DataRookies"
+  orgWebsite = "https://github.com/DataRookies/DataRookiesLearningPortal"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Andrew Escay"
+  authorAvatar = "img/headshot.jpeg"
+  authorLocation = "Manila, PH"
+  authorWebsite = "https://aescay.com"
+  authorDescription = "A hungy and foolish aspiring data scientist."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/"
+  weight = 200
+
+# [[menu.main]]
+#   name = "Blog"
+#   url = "/tags/golang/"
+#   weight = 100
+
+[[menu.main]]
+  name = "About Me"
+  url = "/categories/food/"
+  weight = 99
+
+[[menu.main]]
+  name = "DataRookies"
+  url = "https://google.com/"
+  weight = 95
