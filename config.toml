@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://www.aescay.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -28,7 +28,7 @@ paginate        = 6
   author = "Andrew Escay"
   authorAvatar = "img/headshot.jpeg"
   authorLocation = "Manila, PH"
-  authorWebsite = "https://aescay.com"
+  authorWebsite = "https://www.aescay.com"
   authorDescription = "A hungy and foolish aspiring data scientist."
 
   pageNotFoundTitle = "404 - Page not found"
@@ -40,7 +40,7 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Home"
+  name = "Blog"
   url = "/"
   weight = 200
 
