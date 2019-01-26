@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Andrew Escay"
   subtitle    = "An Aspiring Data Scientist's Blog"
 
-  cover       = "img/cover.png"
+  cover       = "img/small_cover.png"
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
