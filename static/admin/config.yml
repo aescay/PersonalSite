@@ -13,3 +13,4 @@ collections:
     slug: "{{year}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Date", name: "date", widget: "date", default: "", format: "MMM Do YY"}
