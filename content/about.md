@@ -30,18 +30,18 @@ My skills mainly come from the experiences mentioned above, and I complement tha
 
 In university, I held positions in the leadership team of 2 innovative student organizations:
 
-* UP Dashboard - Lead Data Analyst
-* UP Bike Share - Chief Financial Officer 
+* [UP Dashboard](http://www.updashboard.com/) - Lead Data Analyst
+* [UP Bike Share](https://www.facebook.com/upbikesharing/) - Chief Financial Officer 
 
 
 I also dabbled in a couple hackathons:
 
-* P&G Moonshot - Champion
-* Inquirer Hack the CBD - Champion
+* [P&G Moonshot](https://www.facebook.com/PandGcareersPh/posts/10156118437645970) - Champion
+* [Inquirer Hack the CBD](https://newsinfo.inquirer.net/791163/up-bike-share-program-wins-urban-mobility-tilt) - Champion
 
 as well as marketing and business case competitions:
 
-* PANAnaw IMC 2017 - Champion
+* [PANAnaw IMC 2017](http://vsb.upd.edu.ph/news/upvsbbagsback-to-backchampionshipatthe18thpananawawards) - Champion
 * L'Oreal Brandstorm - National Best Speaker 2017
 
 For more details, or if you would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/andrew-escay/)!
