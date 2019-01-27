@@ -17,6 +17,7 @@ paginate        = 6
   RSSLink = ""
 
 #   twitterName = "faketryghost"
+  linkedinName = "andrew-escay"
   fbName = "andrew.escay"
   githubName = "aescay"
 
@@ -49,10 +50,10 @@ paginate        = 6
 #   url = "/tags/golang/"
 #   weight = 100
 
-[[menu.main]]
-  name = "About Me"
-  url = "/categories/food/"
-  weight = 99
+# [[menu.main]]
+#   name = "About Me"
+#   url = "/categories/food/"
+#   weight = 99
 
 [[menu.main]]
   name = "DataRookies"
