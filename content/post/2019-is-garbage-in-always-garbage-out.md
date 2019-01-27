@@ -1,6 +1,6 @@
 ---
 title: Is garbage in always garbage out?
-date: '2018-08-06 00:00'
+date: '2018-08-06'
 draft: false
 author: Andrew Escay
 authorImage: img/headshot.jpeg
