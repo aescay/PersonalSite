@@ -10,7 +10,8 @@ type = "page"
 weight = 111
 
 +++
-![Headshot](/img/headshot.jpeg)
+<img src="/img/headshot.jpeg"  alt="Drawing" style="width: 200px;"/>
+
 
 My name is Andrew Escay. I am learning, working, and playing with data in the pursuit of becoming a professional data scientist! 
 
