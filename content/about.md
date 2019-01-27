@@ -26,7 +26,7 @@ Python, R, SQL, Tableau, Data Analysis, Machine Learning, Project Management, Pu
 ### Background
 I've worked on various data science and analytics problems across 5 different organizations (research institutions, startups, and corporations). 
 
-My skills mainly come from the experiences mentioned above, and I complement that learning by taking various online courses and attenting seminars and conferences. 
+My skills mainly come from the experiences mentioned above, and I complement that learning by taking various online courses and attending seminars and conferences. 
 
 In university, I held positions in the leadership team of 2 innovative student organizations:
 
