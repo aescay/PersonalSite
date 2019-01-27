@@ -14,5 +14,11 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Date", name: "date", widget: "date", default: "", format: "MMM Do YY"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: "true"}
-      - { label: 'Blog post content', name: 'body', widget: 'markdown' }
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: Author, name: author, widget: hidden, default: Andrew Escay}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "img/headshot.jpeg"}
+      - {label: "Header Image", name: image, widget: image, required: false}
+      - {label: Commenting, name: comments, widget: boolean, default: true}
+      - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Type, name: type, widget: hidden, default: "post"}
+      - {label: 'Blog post content', name: 'body', widget: 'markdown'}
