@@ -12,7 +12,7 @@ paginate        = 6
   cover       = "img/small_cover.png"
   description = "Andrew Escay's Personal Website"
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-143824337-1"
   customCSS = ["static/css/casper-two.css"]
   RSSLink = ""
 
